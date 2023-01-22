@@ -1,0 +1,55 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/david/Desktop/java/old/dawid_dlugajczyk_lab_3/Cesar/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/david/Desktop/java/old/dawid_dlugajczyk_lab_3/Cesar/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Cesar 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Cesar 1.0-SNAPSHOT API'
+pl.polsl.dawid.dlugajczyk.cesar
+pl.polsl.dawid.dlugajczyk.cesar.controller
+pl.polsl.dawid.dlugajczyk.cesar.model
+'C:/Users/david/Desktop/java/old/dawid_dlugajczyk_lab_3/Cesar/src/main/java/pl/polsl/dawid/dlugajczyk/cesar/Cesar.java'
+'C:/Users/david/Desktop/java/old/dawid_dlugajczyk_lab_3/Cesar/src/main/java/pl/polsl/dawid/dlugajczyk/cesar/controller/GUI.java'
+'C:/Users/david/Desktop/java/old/dawid_dlugajczyk_lab_3/Cesar/src/main/java/pl/polsl/dawid/dlugajczyk/cesar/model/IncorrectTextException.java'
+'C:/Users/david/Desktop/java/old/dawid_dlugajczyk_lab_3/Cesar/src/main/java/pl/polsl/dawid/dlugajczyk/cesar/model/Model.java'
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\src\main\java = 1666267416360
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\allclasses-index.html = 1671131542813
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\allpackages-index.html = 1671131542819
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\copy.svg = 1671131542870
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\element-list = 1671131542673
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\help-doc.html = 1671131542857
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\index-all.html = 1671131542842
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\index.html = 1671131542797
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\javadoc.bat = 1671131350540
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\jquery-ui.overrides.css = 1671131542905
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\member-search-index.js = 1671131542828
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\module-search-index.js = 1671131542822
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\overview-summary.html = 1671131542848
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\overview-tree.html = 1671131542792
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\package-search-index.js = 1671131542824
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\script.js = 1671131542866
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\search-page.js = 1671131542887
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\search.html = 1671131542846
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\search.js = 1671131542884
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\serialized-form.html = 1671131542744
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\stylesheet.css = 1671131542862
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\tag-search-index.js = 1671131542829
+C:\Users\david\Desktop\java\old\dawid_dlugajczyk_lab_3\Cesar\target\site\apidocs\type-search-index.js = 1671131542826
